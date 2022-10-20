@@ -5,7 +5,7 @@ const Menu = [
     },
     {
       id: 1,
-      image: "../images/maggi.jpg",
+      image: "../images/maggi.JPG",
       name: "maggi",
       category: "breakfast",
       price: "12₹",
@@ -15,7 +15,7 @@ const Menu = [
   
     {
       id: 2,
-      image: "../images/allupakoida.jpg",
+      image: "../images/allupakoida.JPG",
       name: "alloo pakoda",
       category: "snacks",
       price: "20₹",
@@ -24,7 +24,7 @@ const Menu = [
     },
     {
       id: 3,
-      image: "../images/corn.jpg",
+      image: "../images/corn.JPG",
       name: "corn",
       category: "breakfast",
       price: "10₹",
@@ -33,7 +33,7 @@ const Menu = [
     },
     {
       id: 4,
-      image: "../images/chola.jpg",
+      image: "../images/chola.JPG",
       name: "chola",
       category: "lunch",
       price: "50₹",
@@ -42,7 +42,7 @@ const Menu = [
     },
     {
       id: 5,
-      image: "../images/pizza.jpg",
+      image: "../images/pizza.JPG",
       name: "pizza",
       category: "snacks",
       price: "80₹",
@@ -51,7 +51,7 @@ const Menu = [
     },
     {
       id: 6,
-      image: "../images/nonvegthali.jpg",
+      image: "../images/nonvegthali.JPG",
       name: "Non-Veg Thali",
       category: "dinner",
       price: "180₹",
@@ -60,7 +60,7 @@ const Menu = [
     },
     {
       id: 7,
-      image: "../images/sweet.jpg",
+      image: "../images/sweet.JPG",
       name: "Sweets",
       category: "dinner",
       price: "60₹",
@@ -69,7 +69,7 @@ const Menu = [
     },
     {
       id: 8,
-      image: "../images/rajmarice.jpg",
+      image: "../images/rajmarice.JPG",
       name: "Rajma Rice",
       category: "lunch",
       price: "60₹",
@@ -78,7 +78,7 @@ const Menu = [
     },
     {
       id: 9,
-      image: "../images/samosa.jpg",
+      image: "../images/samosa.JPG",
       name: "samosa",
       category: "snacks",
       price: "10₹",
@@ -87,7 +87,7 @@ const Menu = [
     },
     {
     id: 10,
-      image: "../images/water.jpg",
+      image: "../images/water.JPG",
       name: "Mineral Water",
       category: "extra",
       price: "60₹",
