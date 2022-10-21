@@ -17,7 +17,7 @@ const Menu = [
     {
       id: 2,
       image: "https://github.com/punyeeet/restaurant/blob/master/public/images/allupakoida.jpg?raw=true",
-      name: "allu pakoida",
+      name: "allu pakoda",
       category: "evening",
       price: "20₹",
       description:
