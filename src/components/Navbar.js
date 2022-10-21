@@ -6,7 +6,7 @@ const Navbar = ({filteritem,navData}) => {
     <>
         <nav className='navbar'>
             <div className='icon'>
-                <img className='iconimg' src='../favicon.ico'/>
+                <img className='iconimg' src='../favicon.ico' alt='icon'/>
                 <p className='page_title'>Food Room Service</p>
             </div>
 
