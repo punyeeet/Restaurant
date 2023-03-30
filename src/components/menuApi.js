@@ -6,7 +6,7 @@ const Menu = [
     },
     {
       id: 1,
-      image: "https://github.com/punyeeet/restaurant/blob/master/public/images/maggi.jpg?raw=true",
+      image: "images/maggi.jpg",
       name: "maggi",
       category: "breakfast",
       price: "12₹",
@@ -16,8 +16,8 @@ const Menu = [
   
     {
       id: 2,
-      image: "https://github.com/punyeeet/restaurant/blob/master/public/images/allupakoida.jpg?raw=true",
-      name: "allu pakoda",
+      image: "images/allupakoida.jpg",
+      name: "alloo pakoda",
       category: "evening",
       price: "20₹",
       description:
@@ -25,7 +25,7 @@ const Menu = [
     },
     {
       id: 3,
-      image: "https://github.com/punyeeet/restaurant/blob/master/public/images/corn.jpg?raw=true",
+      image: "images/corn.jpg",
       name: "corn",
       category: "breakfast",
       price: "10₹",
@@ -34,7 +34,7 @@ const Menu = [
     },
     {
       id: 4,
-      image: "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/07/chole-recipe.jpg",
+      image: "images/chola.jpg",
       name: "chola",
       category: "lunch",
       price: "50₹",
